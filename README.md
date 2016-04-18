@@ -2,7 +2,7 @@
 I need Help to check if my code is right and If not , Kindly Adjust it. (in C#)
 
 
-# Software-for-registration-of-trucks-and-there-drivers
+# Software-for-registration-of-trucks-and-there-drivers (in  C#)
 Software for registration of trucks and there drivers  ( in  C# )
 
 A transport company wants a software for registration of trucks and their drivers. For trucks it is necessary to store the license plate number, number of driven km, average fuel consumption according to technical specification and the number of liters of fuel purchased. For drivers store names and driver's license number.
